@@ -162,6 +162,8 @@ h2.detail-2 {
 div.image-profile img{
   margin-left: 120px;
   /* float: right; */
+  margin-right: 100px;
+  margin-top: 70px;
   padding: 3px;
   height: 330px;
   width: 250px;
